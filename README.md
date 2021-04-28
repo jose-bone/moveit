@@ -8,7 +8,7 @@
     <img alt="GitHub forks" src="https://img.shields.io/github/forks/jose-bone/moveit?color=29B6D1&style=flat-square">
   </a>
   <a href="https://github.com/jose-bone/moveit-nlw4/stargazers">
-    <img alt="GitHub stars" src="https://img.shields.io/github/stars/jose-bone/moveit?color=29B6D1&style=flat-square">
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/jose-bone/moveit-nlw4?color=29B6D1&style=flat-square">
   </a>
 </h1>
 <p align="center">
@@ -20,9 +20,6 @@
   <a href="#memo-Licença">Licença</a>
 </p>
 
-<p align="center">
-  <img alt="Happy" src=".github/moveit.png" width="100%">
-</p>
 
 ## 📄 Descrição
 O Move.it é um projeto criado pela Rocketseat para ser uma plataforma que combina a técnica do Pomodoro, que consiste em ciclos alternados de foco e descanso, com exercícios de bem-estar para quem passa muitas horas em frente ao computador, que pode ser prejudicial à sua saúde quando você não faz exercícios ou descansa!
