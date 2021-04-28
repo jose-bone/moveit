@@ -8,7 +8,7 @@
     <img alt="GitHub forks" src="https://img.shields.io/github/forks/jose-bone/moveit?color=29B6D1&style=flat-square">
   </a>
   <a href="https://github.com/jose-bone/moveit-nlw4/stargazers">
-    <img alt="GitHub stars" src="https://img.shields.io/github/stars/jose-bone/moveit-nlw4?color=29B6D1&style=flat-square">
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/jose-bone/moveit?color=29B6D1&style=flat-square">
   </a>
 </h1>
 <p align="center">
