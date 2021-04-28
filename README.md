@@ -20,14 +20,20 @@
   <a href="#memo-Licença">Licença</a>
 </p>
 
+<p align="center">
+  <img alt="Happy" src=".github/moveit.png" width="100%">
+</p>
 
 ## 📄 Descrição
+
 O Move.it é um projeto criado pela Rocketseat para ser uma plataforma que combina a técnica do Pomodoro, que consiste em ciclos alternados de foco e descanso, com exercícios de bem-estar para quem passa muitas horas em frente ao computador, que pode ser prejudicial à sua saúde quando você não faz exercícios ou descansa!
 
 ## 🎨 Layout
+
 Você pode acessar o Layout pelo <a href="https://www.figma.com">Figma</a> através desse <a href="https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/Move.it-1.0"> link</a>.
 
 ## 🛠 Tecnologias
+
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Next.js](https://nextjs.org/)
@@ -37,6 +43,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 ## 📕 Instalação
 
 ### Pré-requisitos
+
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
@@ -48,7 +55,7 @@ $ git clone https://github.com/jose-bone/moveit.git
 $ cd moveit
 
 # Instale as dependências
-$ npm install 
+$ npm install
 
 # Execute aplicação
 $ npm run dev
@@ -64,9 +71,7 @@ $ npm run dev
  <sub><b>José Boné</b></sub>
 </a>
 
-
 Feito com ❤️ por José Boné 👋👋 🚀
-
 
 ## 📝 Licença
 
